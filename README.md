@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My experience is in data analysis, but I've been managing teams for a few years now.
+I try to evolve in the management component but acquire new technical knowledge, in order to be a greater help to the team.
 
 <a href="https://app.daily.dev/"><img src="https://github.com/fakf/fakf/blob/main/devcard.svg" width="400" alt="Fakf Dev Card"/></a>
 
